@@ -1,0 +1,15 @@
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Repositories\bin\Debug\net8.0\TM.Repositories.deps.json
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Repositories\bin\Debug\net8.0\TM.Repositories.dll
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Repositories\bin\Debug\net8.0\TM.Repositories.pdb
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Repositories\bin\Debug\net8.0\TM.Data.dll
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Repositories\bin\Debug\net8.0\TM.Data.pdb
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Repositories\obj\Debug\net8.0\TM.Repositories.csproj.AssemblyReference.cache
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Repositories\obj\Debug\net8.0\TM.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Repositories\obj\Debug\net8.0\TM.Repositories.AssemblyInfoInputs.cache
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Repositories\obj\Debug\net8.0\TM.Repositories.AssemblyInfo.cs
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Repositories\obj\Debug\net8.0\TM.Repositories.csproj.CoreCompileInputs.cache
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Repositories\obj\Debug\net8.0\TM.Repos.95E399F8.Up2Date
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Repositories\obj\Debug\net8.0\TM.Repositories.dll
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Repositories\obj\Debug\net8.0\refint\TM.Repositories.dll
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Repositories\obj\Debug\net8.0\TM.Repositories.pdb
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Repositories\obj\Debug\net8.0\ref\TM.Repositories.dll

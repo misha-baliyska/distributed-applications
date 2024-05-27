@@ -1,0 +1,12 @@
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Data\bin\Debug\net8.0\TM.Data.deps.json
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Data\bin\Debug\net8.0\TM.Data.dll
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Data\bin\Debug\net8.0\TM.Data.pdb
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Data\obj\Debug\net8.0\TM.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Data\obj\Debug\net8.0\TM.Data.AssemblyInfoInputs.cache
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Data\obj\Debug\net8.0\TM.Data.AssemblyInfo.cs
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Data\obj\Debug\net8.0\TM.Data.csproj.CoreCompileInputs.cache
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Data\obj\Debug\net8.0\TM.Data.dll
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Data\obj\Debug\net8.0\refint\TM.Data.dll
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Data\obj\Debug\net8.0\TM.Data.pdb
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Data\obj\Debug\net8.0\ref\TM.Data.dll
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Data\obj\Debug\net8.0\TM.Data.csproj.AssemblyReference.cache

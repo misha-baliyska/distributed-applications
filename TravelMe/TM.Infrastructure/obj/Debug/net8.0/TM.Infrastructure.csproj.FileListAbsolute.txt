@@ -1,0 +1,15 @@
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Infrastructure\bin\Debug\net8.0\TM.Infrastructure.deps.json
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Infrastructure\bin\Debug\net8.0\TM.Infrastructure.dll
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Infrastructure\bin\Debug\net8.0\TM.Infrastructure.pdb
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Infrastructure\bin\Debug\net8.0\TM.Data.dll
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Infrastructure\bin\Debug\net8.0\TM.Data.pdb
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Infrastructure\obj\Debug\net8.0\TM.Infrastructure.csproj.AssemblyReference.cache
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Infrastructure\obj\Debug\net8.0\TM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Infrastructure\obj\Debug\net8.0\TM.Infrastructure.AssemblyInfoInputs.cache
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Infrastructure\obj\Debug\net8.0\TM.Infrastructure.AssemblyInfo.cs
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Infrastructure\obj\Debug\net8.0\TM.Infrastructure.csproj.CoreCompileInputs.cache
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Infrastructure\obj\Debug\net8.0\TM.Infra.FB4E4186.Up2Date
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Infrastructure\obj\Debug\net8.0\TM.Infrastructure.dll
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Infrastructure\obj\Debug\net8.0\refint\TM.Infrastructure.dll
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Infrastructure\obj\Debug\net8.0\TM.Infrastructure.pdb
+D:\DOCUMENTS\_University\2курс\DP\TravelMe\TravelMe\TM.Infrastructure\obj\Debug\net8.0\ref\TM.Infrastructure.dll

@@ -1,0 +1,162 @@
+﻿@model TM.Website.Models.PagenatedList<TM.Infrastructure.Messaging.Responses.UsersResponses.UserViewModel>
+
+@{
+    ViewData["Title"] = "User List";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+@if (AuthUser.LoggedUser != null && AuthUser.LoggedUser.IsAdmin)
+{
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+}
+
+<form asp-action="SearchByUsername" asp-route-name="@ViewData["CurrentFilter"]" method="get" class="form-inline mb-3">
+    <div class="form-group">
+        <input type="text" name="name" class="form-control mr-2" placeholder="Search by username" />
+    </div>
+    <button type="submit" class="btn purple-btn">Search</button>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Username</th>
+            <th>Password</th>
+            <th>Email</th>
+            <th>Gender</th>
+            <th>DateOfBirth</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.FirstName)</td>
+                <td>@Html.DisplayFor(modelItem => item.LastName)</td>
+                <td>@Html.DisplayFor(modelItem => item.Username)</td>
+                <td>@Html.DisplayFor(modelItem => item.Password)</td>
+                <td>@Html.DisplayFor(modelItem => item.Email)</td>
+                <td>@Html.DisplayFor(modelItem => item.Gender)</td>
+                <td>@Html.DisplayFor(modelItem => item.DateOfBirth)</td>
+
+
+                @if (AuthUser.LoggedUser != null && AuthUser.LoggedUser.IsAdmin)
+                {
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    </td>
+                }
+                else
+                {
+                    <td>
+                        <a asp-controller="Reservations" asp-action="Create" asp-route-id="@item.Id">Go</a>
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+
+@* <div class="pagination">
+    <nav aria-label="Page navigation">
+        <ul class="pagination justify-content-center">
+            @if (Model.HasPreviousPage)
+            {
+                <li class="page-item">
+                    <a class="page-link" asp-action="Index" asp-route-pageIndex="@(Model.PageIndex - 1)" aria-label="Previous">
+                        <span aria-hidden="true">&laquo; Previous</span>
+                    </a>
+                </li>
+            }
+            else
+            {
+                <li class="page-item disabled">
+                    <a class="page-link" aria-label="Previous">
+                        <span aria-hidden="true">&laquo; Previous</span>
+                    </a>
+                </li>
+            }
+
+            @if (Model.HasNextPage)
+            {
+                <li class="page-item">
+                    <a class="page-link" asp-action="Index" asp-route-pageIndex="@(Model.PageIndex + 1)" aria-label="Next">
+                        <span aria-hidden="true">Next &raquo;</span>
+                    </a>
+                </li>
+            }
+            else
+            {
+                <li class="page-item disabled">
+                    <a class="page-link" aria-label="Next">
+                        <span aria-hidden="true">Next &raquo;</span>
+                    </a>
+                </li>
+            }
+        </ul>
+    </nav>
+</div> *@
+
+@* <div class="pagination">
+    @if (Model.HasPreviousPage)
+    {
+        <a asp-action="SearchByUsername" asp-route-name="@ViewData["CurrentFilter"]" asp-route-pageIndex="@(Model.PageIndex - 1)">Previous</a>
+    }
+    @if (Model.HasNextPage)
+    {
+        <a asp-action="SearchByUsername" asp-route-name="@ViewData["CurrentFilter"]" asp-route-pageIndex="@(Model.PageIndex + 1)">Next</a>
+    }
+</div> *@
+
+<nav aria-label="Page navigation">
+    <ul class="pagination justify-content-center">
+        @if (Model.HasPreviousPage)
+        {
+            <li class="page-item">
+                <a class="page-link purple-bg" asp-action="Index" asp-route-pageIndex="@(Model.PageIndex - 1)" aria-label="Previous">
+                    <span aria-hidden="true">&laquo; Previous</span>
+                </a>
+            </li>
+        }
+        else
+        {
+            <li class="page-item disabled">
+                <a class="page-link" aria-label="Previous">
+                    <span aria-hidden="true">&laquo; Previous</span>
+                </a>
+            </li>
+        }
+
+        @if (Model.HasNextPage)
+        {
+            <li class="page-item">
+                <a class="page-link purple-bg" asp-action="Index" asp-route-pageIndex="@(Model.PageIndex + 1)" aria-label="Next">
+                    <span aria-hidden="true">Next &raquo;</span>
+                </a>
+            </li>
+        }
+        else
+        {
+            <li class="page-item disabled">
+                <a class="page-link" aria-label="Next">
+                    <span aria-hidden="true">Next &raquo;</span>
+                </a>
+            </li>
+        }
+        @*  @if (Model.HasPreviousPage)
+        {
+        <a asp-action="SearchByTitle" asp-route-firstName="@ViewData["CurrentFilter"]" asp-route-pageIndex="@(Model.PageIndex - 1)">Previous</a>
+        }
+        @if (Model.HasNextPage)
+        {
+        <a asp-action="SearchByTitle" asp-route-firstName="@ViewData["CurrentFilter"]" asp-route-pageIndex="@(Model.PageIndex + 1)">Next</a>
+        } *@
+    </ul>
+</nav>

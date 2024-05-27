@@ -1,0 +1,81 @@
+﻿@* @using TM.Data.Entities
+@using TM.Infrastructure.Messaging.Responses.UsersResponses *@
+@model TM.Infrastructure.Messaging.Requests.ReservationsRequests.ReservationModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+@* @{
+    // Cast ViewData["UsersId"] to List<UserViewModel>
+    var userList = ViewData["UsersId"] as List<UserViewModel>;
+} *@
+
+<h1>Create</h1>
+
+<h4>Reservation</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" method="post">
+            @* <div class="form-group">
+                <label asp-for="UserId" class="control-label"></label>
+                <select asp-for="UserId" class="form-control">
+                    
+                    @if (userList != null)
+                    {
+                        foreach (var user in userList)
+                        {
+                            <option value="@user.Id">@user.FirstName</option>
+                        }
+                    }
+                    else
+                    {
+                        <option value="">No Users Found</option>
+                    }
+                </select>
+                <span asp-validation-for="UserId" class="text-danger"></span>
+            </div> *@
+            @if (AuthUser.LoggedUser.IsAdmin)
+            {
+                <div class="form-group">
+                    <label asp-for="UserId" class="control-label"></label>
+                    <input asp-for="UserId" class="form-control" />
+                    <span asp-validation-for="UserId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="TripId" class="control-label"></label>
+                    <input asp-for="TripId" class="form-control" />
+                    <span asp-validation-for="TripId" class="text-danger"></span>
+                </div>
+            }
+            <div class="form-group">
+                <label asp-for="LuggageSize" class="control-label"></label>
+                <select asp-for="LuggageSize" class="form-control">
+                    <option value="Small">Small</option>
+                    <option value="Medium">Medium</option>
+                    <option value="Large">Large</option>
+                </select>
+                <span asp-validation-for="LuggageSize" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Note" class="control-label"></label>
+                <textarea asp-for="Note" class="form-control"></textarea>
+                <span asp-validation-for="Note" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

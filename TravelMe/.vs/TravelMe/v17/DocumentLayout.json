@@ -1,0 +1,874 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC882543-6ED5-4339-BF1D-8A16E0993A83}|TM.Data\\TM.Data.csproj|d:\\documents\\_university\\2\u043A\u0443\u0440\u0441\\dp\\travelme\\travelme\\tm.data\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC882543-6ED5-4339-BF1D-8A16E0993A83}|TM.Data\\TM.Data.csproj|solutionrelative:tm.data\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60120000-602B-4D7C-BD20-26CD611A8853}|TM.ApplicationServices\\TM.ApplicationServices.csproj|d:\\documents\\_university\\2\u043A\u0443\u0440\u0441\\dp\\travelme\\travelme\\tm.applicationservices\\implementations\\reservationsmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60120000-602B-4D7C-BD20-26CD611A8853}|TM.ApplicationServices\\TM.ApplicationServices.csproj|solutionrelative:tm.applicationservices\\implementations\\reservationsmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278E86EF-92B6-4530-B7C2-B9B2F3F6719A}|TM.Website\\TM.Website.csproj|d:\\documents\\_university\\2\u043A\u0443\u0440\u0441\\dp\\travelme\\travelme\\tm.website\\views\\trips\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{278E86EF-92B6-4530-B7C2-B9B2F3F6719A}|TM.Website\\TM.Website.csproj|solutionrelative:tm.website\\views\\trips\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278E86EF-92B6-4530-B7C2-B9B2F3F6719A}|TM.Website\\TM.Website.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.website\\views\\trips\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{278E86EF-92B6-4530-B7C2-B9B2F3F6719A}|TM.Website\\TM.Website.csproj|solutionrelative:tm.website\\views\\trips\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278E86EF-92B6-4530-B7C2-B9B2F3F6719A}|TM.Website\\TM.Website.csproj|d:\\documents\\_university\\2\u043A\u0443\u0440\u0441\\dp\\travelme\\travelme\\tm.website\\views\\reservations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{278E86EF-92B6-4530-B7C2-B9B2F3F6719A}|TM.Website\\TM.Website.csproj|solutionrelative:tm.website\\views\\reservations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278E86EF-92B6-4530-B7C2-B9B2F3F6719A}|TM.Website\\TM.Website.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.website\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278E86EF-92B6-4530-B7C2-B9B2F3F6719A}|TM.Website\\TM.Website.csproj|solutionrelative:tm.website\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60120000-602B-4D7C-BD20-26CD611A8853}|TM.ApplicationServices\\TM.ApplicationServices.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.applicationservices\\implementations\\basemanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60120000-602B-4D7C-BD20-26CD611A8853}|TM.ApplicationServices\\TM.ApplicationServices.csproj|solutionrelative:tm.applicationservices\\implementations\\basemanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.infrastructure\\messaging\\responses\\tripresponses\\tripviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|solutionrelative:tm.infrastructure\\messaging\\responses\\tripresponses\\tripviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.infrastructure\\messaging\\requests\\usersrequests\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|solutionrelative:tm.infrastructure\\messaging\\requests\\usersrequests\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.infrastructure\\messaging\\requests\\triprequests\\createtriprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|solutionrelative:tm.infrastructure\\messaging\\requests\\triprequests\\createtriprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278E86EF-92B6-4530-B7C2-B9B2F3F6719A}|TM.Website\\TM.Website.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.website\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{278E86EF-92B6-4530-B7C2-B9B2F3F6719A}|TM.Website\\TM.Website.csproj|solutionrelative:tm.website\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68695F0-256A-4ED3-90A0-85CA61684AFA}|TM.WebAPI\\TM.WebAPI.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.webapi\\tm.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E68695F0-256A-4ED3-90A0-85CA61684AFA}|TM.WebAPI\\TM.WebAPI.csproj|solutionrelative:tm.webapi\\tm.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278E86EF-92B6-4530-B7C2-B9B2F3F6719A}|TM.Website\\TM.Website.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.website\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278E86EF-92B6-4530-B7C2-B9B2F3F6719A}|TM.Website\\TM.Website.csproj|solutionrelative:tm.website\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.infrastructure\\messaging\\responses\\usersresponses\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|solutionrelative:tm.infrastructure\\messaging\\responses\\usersresponses\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.WebAPI\\Migrations\\20240527114400_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TM.WebAPI\\Migrations\\20240527114400_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68695F0-256A-4ED3-90A0-85CA61684AFA}|TM.WebAPI\\TM.WebAPI.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68695F0-256A-4ED3-90A0-85CA61684AFA}|TM.WebAPI\\TM.WebAPI.csproj|solutionrelative:tm.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68695F0-256A-4ED3-90A0-85CA61684AFA}|TM.WebAPI\\TM.WebAPI.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E68695F0-256A-4ED3-90A0-85CA61684AFA}|TM.WebAPI\\TM.WebAPI.csproj|solutionrelative:tm.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC882543-6ED5-4339-BF1D-8A16E0993A83}|TM.Data\\TM.Data.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.data\\contexts\\travelmedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC882543-6ED5-4339-BF1D-8A16E0993A83}|TM.Data\\TM.Data.csproj|solutionrelative:tm.data\\contexts\\travelmedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278E86EF-92B6-4530-B7C2-B9B2F3F6719A}|TM.Website\\TM.Website.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.website\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278E86EF-92B6-4530-B7C2-B9B2F3F6719A}|TM.Website\\TM.Website.csproj|solutionrelative:tm.website\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278E86EF-92B6-4530-B7C2-B9B2F3F6719A}|TM.Website\\TM.Website.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.website\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{278E86EF-92B6-4530-B7C2-B9B2F3F6719A}|TM.Website\\TM.Website.csproj|solutionrelative:tm.website\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278E86EF-92B6-4530-B7C2-B9B2F3F6719A}|TM.Website\\TM.Website.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.website\\filters\\userfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278E86EF-92B6-4530-B7C2-B9B2F3F6719A}|TM.Website\\TM.Website.csproj|solutionrelative:tm.website\\filters\\userfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278E86EF-92B6-4530-B7C2-B9B2F3F6719A}|TM.Website\\TM.Website.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.website\\filters\\adminfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278E86EF-92B6-4530-B7C2-B9B2F3F6719A}|TM.Website\\TM.Website.csproj|solutionrelative:tm.website\\filters\\adminfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278E86EF-92B6-4530-B7C2-B9B2F3F6719A}|TM.Website\\TM.Website.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.website\\filters\\loggeduserfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278E86EF-92B6-4530-B7C2-B9B2F3F6719A}|TM.Website\\TM.Website.csproj|solutionrelative:tm.website\\filters\\loggeduserfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278E86EF-92B6-4530-B7C2-B9B2F3F6719A}|TM.Website\\TM.Website.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.website\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278E86EF-92B6-4530-B7C2-B9B2F3F6719A}|TM.Website\\TM.Website.csproj|solutionrelative:tm.website\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278E86EF-92B6-4530-B7C2-B9B2F3F6719A}|TM.Website\\TM.Website.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278E86EF-92B6-4530-B7C2-B9B2F3F6719A}|TM.Website\\TM.Website.csproj|solutionrelative:tm.website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.infrastructure\\messaging\\responses\\reservationsresponses\\createuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|solutionrelative:tm.infrastructure\\messaging\\responses\\reservationsresponses\\createuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278E86EF-92B6-4530-B7C2-B9B2F3F6719A}|TM.Website\\TM.Website.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.website\\tm.website.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{278E86EF-92B6-4530-B7C2-B9B2F3F6719A}|TM.Website\\TM.Website.csproj|solutionrelative:tm.website\\tm.website.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD995C9-BAF0-4585-A963-66AA52DF913C}|TM.Repositories\\TM.Repositories.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.repositories\\implementations\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD995C9-BAF0-4585-A963-66AA52DF913C}|TM.Repositories\\TM.Repositories.csproj|solutionrelative:tm.repositories\\implementations\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278E86EF-92B6-4530-B7C2-B9B2F3F6719A}|TM.Website\\TM.Website.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.website\\views\\reservations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{278E86EF-92B6-4530-B7C2-B9B2F3F6719A}|TM.Website\\TM.Website.csproj|solutionrelative:tm.website\\views\\reservations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC882543-6ED5-4339-BF1D-8A16E0993A83}|TM.Data\\TM.Data.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.data\\entities\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC882543-6ED5-4339-BF1D-8A16E0993A83}|TM.Data\\TM.Data.csproj|solutionrelative:tm.data\\entities\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC882543-6ED5-4339-BF1D-8A16E0993A83}|TM.Data\\TM.Data.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.data\\entities\\enums\\luggagesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC882543-6ED5-4339-BF1D-8A16E0993A83}|TM.Data\\TM.Data.csproj|solutionrelative:tm.data\\entities\\enums\\luggagesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278E86EF-92B6-4530-B7C2-B9B2F3F6719A}|TM.Website\\TM.Website.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.website\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{278E86EF-92B6-4530-B7C2-B9B2F3F6719A}|TM.Website\\TM.Website.csproj|solutionrelative:tm.website\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.infrastructure\\messaging\\responses\\usersresponses\\getuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|solutionrelative:tm.infrastructure\\messaging\\responses\\usersresponses\\getuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.infrastructure\\messaging\\responses\\reservationsresponses\\reservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|solutionrelative:tm.infrastructure\\messaging\\responses\\reservationsresponses\\reservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.infrastructure\\messaging\\requests\\triprequests\\updatetriprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|solutionrelative:tm.infrastructure\\messaging\\requests\\triprequests\\updatetriprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.infrastructure\\messaging\\responses\\reservationsresponses\\deletereservationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|solutionrelative:tm.infrastructure\\messaging\\responses\\reservationsresponses\\deletereservationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.infrastructure\\messaging\\serviceresponsebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|solutionrelative:tm.infrastructure\\messaging\\serviceresponsebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.infrastructure\\messaging\\responses\\tripresponses\\updatetripresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|solutionrelative:tm.infrastructure\\messaging\\responses\\tripresponses\\updatetripresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68695F0-256A-4ED3-90A0-85CA61684AFA}|TM.WebAPI\\TM.WebAPI.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E68695F0-256A-4ED3-90A0-85CA61684AFA}|TM.WebAPI\\TM.WebAPI.csproj|solutionrelative:tm.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.infrastructure\\messaging\\responses\\tripresponses\\createtripresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|solutionrelative:tm.infrastructure\\messaging\\responses\\tripresponses\\createtripresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD995C9-BAF0-4585-A963-66AA52DF913C}|TM.Repositories\\TM.Repositories.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.repositories\\implementations\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD995C9-BAF0-4585-A963-66AA52DF913C}|TM.Repositories\\TM.Repositories.csproj|solutionrelative:tm.repositories\\implementations\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.infrastructure\\messaging\\requests\\usersrequests\\getuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|solutionrelative:tm.infrastructure\\messaging\\requests\\usersrequests\\getuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.infrastructure\\messaging\\requests\\reservationsrequests\\getreservationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|solutionrelative:tm.infrastructure\\messaging\\requests\\reservationsrequests\\getreservationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.infrastructure\\messaging\\requests\\reservationsrequests\\deletereservationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|solutionrelative:tm.infrastructure\\messaging\\requests\\reservationsrequests\\deletereservationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD995C9-BAF0-4585-A963-66AA52DF913C}|TM.Repositories\\TM.Repositories.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.repositories\\interfaces\\ireservationsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD995C9-BAF0-4585-A963-66AA52DF913C}|TM.Repositories\\TM.Repositories.csproj|solutionrelative:tm.repositories\\interfaces\\ireservationsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD995C9-BAF0-4585-A963-66AA52DF913C}|TM.Repositories\\TM.Repositories.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.repositories\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD995C9-BAF0-4585-A963-66AA52DF913C}|TM.Repositories\\TM.Repositories.csproj|solutionrelative:tm.repositories\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.infrastructure\\messaging\\requests\\triprequests\\gettriprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|solutionrelative:tm.infrastructure\\messaging\\requests\\triprequests\\gettriprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.infrastructure\\messaging\\responses\\usersresponses\\deleteuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|solutionrelative:tm.infrastructure\\messaging\\responses\\usersresponses\\deleteuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.infrastructure\\messaging\\responses\\usersresponses\\createuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|solutionrelative:tm.infrastructure\\messaging\\responses\\usersresponses\\createuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.infrastructure\\messaging\\requests\\usersrequests\\deleteuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|solutionrelative:tm.infrastructure\\messaging\\requests\\usersrequests\\deleteuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.infrastructure\\messaging\\responses\\tripresponses\\deletetripresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|solutionrelative:tm.infrastructure\\messaging\\responses\\tripresponses\\deletetripresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.infrastructure\\messaging\\requests\\triprequests\\deletetriprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390ABB04-CB23-4603-8038-B130C68FD366}|TM.Infrastructure\\TM.Infrastructure.csproj|solutionrelative:tm.infrastructure\\messaging\\requests\\triprequests\\deletetriprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60120000-602B-4D7C-BD20-26CD611A8853}|TM.ApplicationServices\\TM.ApplicationServices.csproj|D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\tm.applicationservices\\tm.applicationservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60120000-602B-4D7C-BD20-26CD611A8853}|TM.ApplicationServices\\TM.ApplicationServices.csproj|solutionrelative:tm.applicationservices\\tm.applicationservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Data\\Entities\\Reservation.cs",
+              "RelativeDocumentMoniker": "TM.Data\\Entities\\Reservation.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Data\\Entities\\Reservation.cs",
+              "RelativeToolTip": "TM.Data\\Entities\\Reservation.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T21:55:01.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservationsManagementService.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.ApplicationServices\\Implementations\\ReservationsManagementService.cs",
+              "RelativeDocumentMoniker": "TM.ApplicationServices\\Implementations\\ReservationsManagementService.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.ApplicationServices\\Implementations\\ReservationsManagementService.cs",
+              "RelativeToolTip": "TM.ApplicationServices\\Implementations\\ReservationsManagementService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwDMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T21:52:57.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Website\\Views\\Trips\\Create.cshtml",
+              "RelativeDocumentMoniker": "TM.Website\\Views\\Trips\\Create.cshtml",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Website\\Views\\Trips\\Create.cshtml",
+              "RelativeToolTip": "TM.Website\\Views\\Trips\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T21:52:42.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Website\\Views\\Reservations\\Create.cshtml",
+              "RelativeDocumentMoniker": "TM.Website\\Views\\Reservations\\Create.cshtml",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Website\\Views\\Reservations\\Create.cshtml",
+              "RelativeToolTip": "TM.Website\\Views\\Reservations\\Create.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T21:51:32.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Website\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "TM.Website\\Controllers\\ReservationsController.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Website\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "TM.Website\\Controllers\\ReservationsController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAgwGUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:47:21.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Website\\Views\\Trips\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TM.Website\\Views\\Trips\\Edit.cshtml",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Website\\Views\\Trips\\Edit.cshtml",
+              "RelativeToolTip": "TM.Website\\Views\\Trips\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T22:29:07.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseManagementService.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.ApplicationServices\\Implementations\\BaseManagementService.cs",
+              "RelativeDocumentMoniker": "TM.ApplicationServices\\Implementations\\BaseManagementService.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.ApplicationServices\\Implementations\\BaseManagementService.cs",
+              "RelativeToolTip": "TM.ApplicationServices\\Implementations\\BaseManagementService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:46:29.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TripViewModel.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Responses\\TripResponses\\TripViewModel.cs",
+              "RelativeDocumentMoniker": "TM.Infrastructure\\Messaging\\Responses\\TripResponses\\TripViewModel.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Responses\\TripResponses\\TripViewModel.cs",
+              "RelativeToolTip": "TM.Infrastructure\\Messaging\\Responses\\TripResponses\\TripViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:56:42.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateUserRequest.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Requests\\UsersRequests\\UpdateUserRequest.cs",
+              "RelativeDocumentMoniker": "TM.Infrastructure\\Messaging\\Requests\\UsersRequests\\UpdateUserRequest.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Requests\\UsersRequests\\UpdateUserRequest.cs",
+              "RelativeToolTip": "TM.Infrastructure\\Messaging\\Requests\\UsersRequests\\UpdateUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:31:45.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateTripRequest.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Requests\\TripRequests\\CreateTripRequest.cs",
+              "RelativeDocumentMoniker": "TM.Infrastructure\\Messaging\\Requests\\TripRequests\\CreateTripRequest.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Requests\\TripRequests\\CreateTripRequest.cs",
+              "RelativeToolTip": "TM.Infrastructure\\Messaging\\Requests\\TripRequests\\CreateTripRequest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:04:38.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Website\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TM.Website\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Website\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TM.Website\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowB8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T07:42:48.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Website\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TM.Website\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Website\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TM.Website\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T17:46:53.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Responses\\UsersResponses\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "TM.Infrastructure\\Messaging\\Responses\\UsersResponses\\UserViewModel.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Responses\\UsersResponses\\UserViewModel.cs",
+              "RelativeToolTip": "TM.Infrastructure\\Messaging\\Responses\\UsersResponses\\UserViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:18:31.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TM.WebAPI.http",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.WebAPI\\TM.WebAPI.http",
+              "RelativeDocumentMoniker": "TM.WebAPI\\TM.WebAPI.http",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.WebAPI\\TM.WebAPI.http",
+              "RelativeToolTip": "TM.WebAPI\\TM.WebAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-27T12:21:03.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "TM.WebAPI\\appsettings.json",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.WebAPI\\appsettings.json",
+              "RelativeToolTip": "TM.WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-26T10:11:47.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240527114400_Initial.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.WebAPI\\Migrations\\20240527114400_Initial.cs",
+              "RelativeDocumentMoniker": "TM.WebAPI\\Migrations\\20240527114400_Initial.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.WebAPI\\Migrations\\20240527114400_Initial.cs",
+              "RelativeToolTip": "TM.WebAPI\\Migrations\\20240527114400_Initial.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAYwFYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:44:01.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TravelMeDbContext.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Data\\Contexts\\TravelMeDbContext.cs",
+              "RelativeDocumentMoniker": "TM.Data\\Contexts\\TravelMeDbContext.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Data\\Contexts\\TravelMeDbContext.cs",
+              "RelativeToolTip": "TM.Data\\Contexts\\TravelMeDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:05:09.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Website\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "TM.Website\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Website\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "TM.Website\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:46:58.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserFilter.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Website\\Filters\\UserFilter.cs",
+              "RelativeDocumentMoniker": "TM.Website\\Filters\\UserFilter.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Website\\Filters\\UserFilter.cs",
+              "RelativeToolTip": "TM.Website\\Filters\\UserFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:29:46.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TM.WebAPI\\Program.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.WebAPI\\Program.cs",
+              "RelativeToolTip": "TM.WebAPI\\Program.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAwwFMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T09:00:49.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminFilter.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Website\\Filters\\AdminFilter.cs",
+              "RelativeDocumentMoniker": "TM.Website\\Filters\\AdminFilter.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Website\\Filters\\AdminFilter.cs",
+              "RelativeToolTip": "TM.Website\\Filters\\AdminFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:28:49.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoggedUserFilter.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Website\\Filters\\LoggedUserFilter.cs",
+              "RelativeDocumentMoniker": "TM.Website\\Filters\\LoggedUserFilter.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Website\\Filters\\LoggedUserFilter.cs",
+              "RelativeToolTip": "TM.Website\\Filters\\LoggedUserFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:29:20.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthUser.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Website\\AuthUser.cs",
+              "RelativeDocumentMoniker": "TM.Website\\AuthUser.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Website\\AuthUser.cs",
+              "RelativeToolTip": "TM.Website\\AuthUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:26:56.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Website\\Program.cs",
+              "RelativeDocumentMoniker": "TM.Website\\Program.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Website\\Program.cs",
+              "RelativeToolTip": "TM.Website\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:38:49.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Website\\appsettings.json",
+              "RelativeDocumentMoniker": "TM.Website\\appsettings.json",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Website\\appsettings.json",
+              "RelativeToolTip": "TM.Website\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-26T10:11:40.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateUserResponse.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Responses\\ReservationsResponses\\CreateUserResponse.cs",
+              "RelativeDocumentMoniker": "TM.Infrastructure\\Messaging\\Responses\\ReservationsResponses\\CreateUserResponse.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Responses\\ReservationsResponses\\CreateUserResponse.cs",
+              "RelativeToolTip": "TM.Infrastructure\\Messaging\\Responses\\ReservationsResponses\\CreateUserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:27:56.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TM.Website",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Website\\TM.Website.csproj",
+              "RelativeDocumentMoniker": "TM.Website\\TM.Website.csproj",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Website\\TM.Website.csproj",
+              "RelativeToolTip": "TM.Website\\TM.Website.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-27T09:26:37.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Website\\Views\\Reservations\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TM.Website\\Views\\Reservations\\Edit.cshtml",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Website\\Views\\Reservations\\Edit.cshtml",
+              "RelativeToolTip": "TM.Website\\Views\\Reservations\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T22:45:22.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Repositories\\Implementations\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "TM.Repositories\\Implementations\\UnitOfWork.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Repositories\\Implementations\\UnitOfWork.cs",
+              "RelativeToolTip": "TM.Repositories\\Implementations\\UnitOfWork.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA1wCoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:31:37.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Data\\Entities\\Enums\\Gender.cs",
+              "RelativeDocumentMoniker": "TM.Data\\Entities\\Enums\\Gender.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Data\\Entities\\Enums\\Gender.cs",
+              "RelativeToolTip": "TM.Data\\Entities\\Enums\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T19:49:22.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LuggageSize.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Data\\Entities\\Enums\\LuggageSize.cs",
+              "RelativeDocumentMoniker": "TM.Data\\Entities\\Enums\\LuggageSize.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Data\\Entities\\Enums\\LuggageSize.cs",
+              "RelativeToolTip": "TM.Data\\Entities\\Enums\\LuggageSize.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:01:43.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Website\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "TM.Website\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Website\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "TM.Website\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T07:41:59.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GetUserResponse.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Responses\\UsersResponses\\GetUserResponse.cs",
+              "RelativeDocumentMoniker": "TM.Infrastructure\\Messaging\\Responses\\UsersResponses\\GetUserResponse.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Responses\\UsersResponses\\GetUserResponse.cs",
+              "RelativeToolTip": "TM.Infrastructure\\Messaging\\Responses\\UsersResponses\\GetUserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:29:53.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ReservationViewModel.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Responses\\ReservationsResponses\\ReservationViewModel.cs",
+              "RelativeDocumentMoniker": "TM.Infrastructure\\Messaging\\Responses\\ReservationsResponses\\ReservationViewModel.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Responses\\ReservationsResponses\\ReservationViewModel.cs",
+              "RelativeToolTip": "TM.Infrastructure\\Messaging\\Responses\\ReservationsResponses\\ReservationViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAABBwBAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:45:38.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UpdateTripRequest.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Requests\\TripRequests\\UpdateTripRequest.cs",
+              "RelativeDocumentMoniker": "TM.Infrastructure\\Messaging\\Requests\\TripRequests\\UpdateTripRequest.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Requests\\TripRequests\\UpdateTripRequest.cs",
+              "RelativeToolTip": "TM.Infrastructure\\Messaging\\Requests\\TripRequests\\UpdateTripRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:14:14.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DeleteReservationResponse.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Responses\\ReservationsResponses\\DeleteReservationResponse.cs",
+              "RelativeDocumentMoniker": "TM.Infrastructure\\Messaging\\Responses\\ReservationsResponses\\DeleteReservationResponse.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Responses\\ReservationsResponses\\DeleteReservationResponse.cs",
+              "RelativeToolTip": "TM.Infrastructure\\Messaging\\Responses\\ReservationsResponses\\DeleteReservationResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:30:17.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UpdateTripResponse.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Responses\\TripResponses\\UpdateTripResponse.cs",
+              "RelativeDocumentMoniker": "TM.Infrastructure\\Messaging\\Responses\\TripResponses\\UpdateTripResponse.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Responses\\TripResponses\\UpdateTripResponse.cs",
+              "RelativeToolTip": "TM.Infrastructure\\Messaging\\Responses\\TripResponses\\UpdateTripResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:42:23.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ServiceResponseBase.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\ServiceResponseBase.cs",
+              "RelativeDocumentMoniker": "TM.Infrastructure\\Messaging\\ServiceResponseBase.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\ServiceResponseBase.cs",
+              "RelativeToolTip": "TM.Infrastructure\\Messaging\\ServiceResponseBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:37:19.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TM.WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TM.WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-25T17:49:36.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CreateTripResponse.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Responses\\TripResponses\\CreateTripResponse.cs",
+              "RelativeDocumentMoniker": "TM.Infrastructure\\Messaging\\Responses\\TripResponses\\CreateTripResponse.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Responses\\TripResponses\\CreateTripResponse.cs",
+              "RelativeToolTip": "TM.Infrastructure\\Messaging\\Responses\\TripResponses\\CreateTripResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:28:35.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Repositories\\Implementations\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "TM.Repositories\\Implementations\\UsersRepository.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Repositories\\Implementations\\UsersRepository.cs",
+              "RelativeToolTip": "TM.Repositories\\Implementations\\UsersRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:29:42.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GetUserRequest.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Requests\\UsersRequests\\GetUserRequest.cs",
+              "RelativeDocumentMoniker": "TM.Infrastructure\\Messaging\\Requests\\UsersRequests\\GetUserRequest.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Requests\\UsersRequests\\GetUserRequest.cs",
+              "RelativeToolTip": "TM.Infrastructure\\Messaging\\Requests\\UsersRequests\\GetUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:56:12.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "GetReservationRequest.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Requests\\ReservationsRequests\\GetReservationRequest.cs",
+              "RelativeDocumentMoniker": "TM.Infrastructure\\Messaging\\Requests\\ReservationsRequests\\GetReservationRequest.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Requests\\ReservationsRequests\\GetReservationRequest.cs",
+              "RelativeToolTip": "TM.Infrastructure\\Messaging\\Requests\\ReservationsRequests\\GetReservationRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:03:32.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DeleteReservationRequest.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Requests\\ReservationsRequests\\DeleteReservationRequest.cs",
+              "RelativeDocumentMoniker": "TM.Infrastructure\\Messaging\\Requests\\ReservationsRequests\\DeleteReservationRequest.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Requests\\ReservationsRequests\\DeleteReservationRequest.cs",
+              "RelativeToolTip": "TM.Infrastructure\\Messaging\\Requests\\ReservationsRequests\\DeleteReservationRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:03:12.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IReservationsRepository.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Repositories\\Interfaces\\IReservationsRepository.cs",
+              "RelativeDocumentMoniker": "TM.Repositories\\Interfaces\\IReservationsRepository.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Repositories\\Interfaces\\IReservationsRepository.cs",
+              "RelativeToolTip": "TM.Repositories\\Interfaces\\IReservationsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:21:54.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Repositories\\Class1.cs",
+              "RelativeDocumentMoniker": "TM.Repositories\\Class1.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Repositories\\Class1.cs",
+              "RelativeToolTip": "TM.Repositories\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:16:41.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GetTripRequest.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Requests\\TripRequests\\GetTripRequest.cs",
+              "RelativeDocumentMoniker": "TM.Infrastructure\\Messaging\\Requests\\TripRequests\\GetTripRequest.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Requests\\TripRequests\\GetTripRequest.cs",
+              "RelativeToolTip": "TM.Infrastructure\\Messaging\\Requests\\TripRequests\\GetTripRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:07:12.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DeleteUserResponse.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Responses\\UsersResponses\\DeleteUserResponse.cs",
+              "RelativeDocumentMoniker": "TM.Infrastructure\\Messaging\\Responses\\UsersResponses\\DeleteUserResponse.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Responses\\UsersResponses\\DeleteUserResponse.cs",
+              "RelativeToolTip": "TM.Infrastructure\\Messaging\\Responses\\UsersResponses\\DeleteUserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:30:56.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CreateUserResponse.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Responses\\UsersResponses\\CreateUserResponse.cs",
+              "RelativeDocumentMoniker": "TM.Infrastructure\\Messaging\\Responses\\UsersResponses\\CreateUserResponse.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Responses\\UsersResponses\\CreateUserResponse.cs",
+              "RelativeToolTip": "TM.Infrastructure\\Messaging\\Responses\\UsersResponses\\CreateUserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:28:51.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DeleteUserRequest.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Requests\\UsersRequests\\DeleteUserRequest.cs",
+              "RelativeDocumentMoniker": "TM.Infrastructure\\Messaging\\Requests\\UsersRequests\\DeleteUserRequest.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Requests\\UsersRequests\\DeleteUserRequest.cs",
+              "RelativeToolTip": "TM.Infrastructure\\Messaging\\Requests\\UsersRequests\\DeleteUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:56:53.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DeleteTripResponse.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Responses\\TripResponses\\DeleteTripResponse.cs",
+              "RelativeDocumentMoniker": "TM.Infrastructure\\Messaging\\Responses\\TripResponses\\DeleteTripResponse.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Responses\\TripResponses\\DeleteTripResponse.cs",
+              "RelativeToolTip": "TM.Infrastructure\\Messaging\\Responses\\TripResponses\\DeleteTripResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:30:41.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DeleteTripRequest.cs",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Requests\\TripRequests\\DeleteTripRequest.cs",
+              "RelativeDocumentMoniker": "TM.Infrastructure\\Messaging\\Requests\\TripRequests\\DeleteTripRequest.cs",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.Infrastructure\\Messaging\\Requests\\TripRequests\\DeleteTripRequest.cs",
+              "RelativeToolTip": "TM.Infrastructure\\Messaging\\Requests\\TripRequests\\DeleteTripRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:06:41.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "TM.ApplicationServices.csproj",
+              "DocumentMoniker": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.ApplicationServices\\TM.ApplicationServices.csproj",
+              "RelativeDocumentMoniker": "TM.ApplicationServices\\TM.ApplicationServices.csproj",
+              "ToolTip": "D:\\DOCUMENTS\\_University\\2\u043A\u0443\u0440\u0441\\DP\\TravelMe\\TravelMe\\TM.ApplicationServices\\TM.ApplicationServices.csproj",
+              "RelativeToolTip": "TM.ApplicationServices\\TM.ApplicationServices.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-18T19:40:29.548Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
